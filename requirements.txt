@@ -1,0 +1,8 @@
+flask
+twilio
+pymongo
+datetime
+re
+time
+dnspython
+gunicorn
